@@ -15,5 +15,5 @@ Before coming to Cornell, I earned a Bachelors of Arts in Economics and French &
 
 I am on the job market in the 2025-2026 academic year. 
 
-I can be reached at <a href="mjd438@cornell.edu">mjd438@cornell.edu.</a> 
+I can be reached at mjd438 [at] cornell [dot] edu.
 
