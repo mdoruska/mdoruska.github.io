@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV <a href="mdoruska.github.io/files/Doruska_CV_July2025.pdf" target="_blank">here.</a> 
+You can download my CV <a href="https://mdoruska.github.io/files/Doruska_CV_July2025.pdf">here.</a> 
